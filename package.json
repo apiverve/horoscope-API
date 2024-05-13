@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/horoscope",
+  "version": "1.0.0",
+  "description": "Horoscope is a simple tool for getting horoscope data. It returns the horoscope for the day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/horoscope-API.git"
+  },
+  "keywords": [
+    "horoscope"," horoscope api"," horoscope tool"," horoscope software"," horoscope service"," horoscope library"," horoscope sdk"," horoscope code"," horoscope script"," horoscope program"," horoscope application"," horoscope app"," horoscope utility"," horoscope helper"," horoscope helper tool"," horoscope helper software"," horoscope helper service"," horoscope helper library"," horoscope helper sdk"," horoscope helper code"," horoscope helper script"," horoscope helper program"," horoscope helper application"," horoscope helper app"," horoscope helper tool"," horoscope helper utility"," horoscope helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/horoscope-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/horoscope-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
