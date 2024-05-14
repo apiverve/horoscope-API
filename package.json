@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/horoscope-API.git"
   },
   "keywords": [
-    "horoscope"," horoscope api"," horoscope tool"," horoscope software"," horoscope service"," horoscope library"," horoscope sdk"," horoscope code"," horoscope script"," horoscope program"," horoscope application"," horoscope app"," horoscope utility"," horoscope helper"," horoscope helper tool"," horoscope helper software"," horoscope helper service"," horoscope helper library"," horoscope helper sdk"," horoscope helper code"," horoscope helper script"," horoscope helper program"," horoscope helper application"," horoscope helper app"," horoscope helper tool"," horoscope helper utility"," horoscope helper"
+    "horoscope","horoscope api","horoscope tool","horoscope software","horoscope service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
