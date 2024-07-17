@@ -71,17 +71,22 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "color": "purple",
+    "color": "orange",
     "compatibility": [
       "leo",
       "sagittarius"
     ],
-    "date": "Fri May 10 2024",
-    "horoscope": "Today is a good day to delve into your creative side, Aries. Allow yourself to explore new hobbies or projects that spark your imagination. Your intuition is strong right now, so trust your gut when making decisions. Focus on self-care and take time to recharge your energy. It's important to set boundaries with others to protect your own well-being. Embrace new opportunities that come your way and don't be afraid to step out of your comfort zone.",
-    "luckyNumber": 38,
-    "luckyTime": "10:00 PM",
-    "mood": "happy",
-    "sign": "aries"
+    "horoscope": "Today is the perfect day to focus on your personal growth and development, Aries. You may find yourself feeling creative and inspired, so make sure to channel that energy into something productive. Take some time to reflect on your goals and aspirations, and make a plan for how you can achieve them. Remember to stay true to yourself and trust your instincts as you move forward.",
+    "luckyNumber": 50,
+    "luckyTime": "2:00 PM",
+    "mood": "anxious",
+    "sign": "aries",
+    "zodiac": {
+      "element": "fire",
+      "name": "Aries",
+      "stone": "bloodstone",
+      "symbol": "♈"
+    }
   }
 }
 ```
