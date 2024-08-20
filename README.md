@@ -71,15 +71,15 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "color": "orange",
+    "color": "green",
     "compatibility": [
       "leo",
       "sagittarius"
     ],
-    "horoscope": "Today is the perfect day to focus on your personal growth and development, Aries. You may find yourself feeling creative and inspired, so make sure to channel that energy into something productive. Take some time to reflect on your goals and aspirations, and make a plan for how you can achieve them. Remember to stay true to yourself and trust your instincts as you move forward.",
-    "luckyNumber": 50,
-    "luckyTime": "2:00 PM",
-    "mood": "anxious",
+    "horoscope": "Today is a day to focus on your inner self, Aries. Take some time to reflect on your emotions and address any unresolved issues. Trust your intuition and don't be afraid to express your feelings openly. Remember to take care of yourself both mentally and physically. You may also feel a strong urge to connect with nature or spend time outdoors. Embrace this opportunity to ground yourself and find peace in the beauty of the natural world.",
+    "luckyNumber": 62,
+    "luckyTime": "10:00 AM",
+    "mood": "stressed",
     "sign": "aries",
     "zodiac": {
       "element": "fire",
@@ -87,7 +87,8 @@ api.execute(query, function (error, data) {
       "stone": "bloodstone",
       "symbol": "♈"
     }
-  }
+  },
+  "code": 200
 }
 ```
 
